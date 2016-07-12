@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <meta charset="utf-8" />
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+   <link rel="stylesheet" href="Styles/Styles.css">
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+   <script src = "lib/angular.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.1/angular-ui-router.min.js"></script>
+   <script src = "main.js"></script>
+</head>
+
+<body>
+
+   <div class='main-container row' ng-app="MyApp" ng-controller="productCtrl">
+      <div class='main col-lg-8 col-md-8'>
+         <h1>Products List</h1>
+         <ul class='brand-list'>
+            <li ng-repeat="b in brandChecks" class='brand'><label><input type="checkbox" name="{{b.brandID}}" value={{b.val}} checked> {{b.brandName}}</label></li>
+         </ul>
+         <ul class='product-list'>
+            <li ng-repeat="item in products" class='product'>
+               <img src='images/product.jpg' class='image' alt="Bacon ipsum">
+               <div class='info'>
+                  <div class='name'>{{item.ProductName}}</div>
+                  <div class='description'>
+                     <strong>Description:</strong> {{item.Description}}<br>
+                     <strong>Product of:</strong> {{item.BrandName}}<br>
+                     <strong>Rating:</strong> {{item.Rating}}<br>
+                     <strong>Latest comments:</strong> {{item.ReviewContent}}<br>
+                  </div>
+                  <div class='price'>Price at: <strong>{{item.Price}}</strong><i class="fa fa-dollar" aria-hidden="true"></i></div>
+               </div>
+               <div class='btn-group'>
+                  <div class='btn-buy btn'>Buy this</div>
+                  <div class='btn-review btn'><a ui-sref="review({productID: item.ProductID, productName: item.ProductName})">Review this</a></div>
+               </div>
+            </li>
+         </ul>
+      </div>
+      <div class='side col-lg-4 col-md-4'>
+         <div class="well" ui-view></div>
+      </div>
+   </div>
+   </body
+   </html>

@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SiteAssets" Url="SiteAssets" >
+    <File Path="SiteAssets\Scripts\its_SubCategory.js" Url="Scripts/its_SubCategory.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />    
+    <File Path="SiteAssets\Scripts\Publicis.CEP.js" Url="Scripts/Publicis.CEP.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Styles\styles.css" Url="Styles/styles.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\video-js.css" Url="VideoJS/video-js.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\video-js.less" Url="VideoJS/video-js.less" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\video-js.swf" Url="VideoJS/video-js.swf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\video.js" Url="VideoJS/video.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\video.novtt.js" Url="VideoJS/video.novtt.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\font\vjs.eot" Url="VideoJS/font/vjs.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\font\vjs.svg" Url="VideoJS/font/vjs.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\font\vjs.ttf" Url="VideoJS/font/vjs.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\font\vjs.woff" Url="VideoJS/font/vjs.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\ar.js" Url="VideoJS/lang/ar.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\bg.js" Url="VideoJS/lang/bg.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\ca.js" Url="VideoJS/lang/ca.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\cs.js" Url="VideoJS/lang/cs.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\de.js" Url="VideoJS/lang/de.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\es.js" Url="VideoJS/lang/es.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\fr.js" Url="VideoJS/lang/fr.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\hu.js" Url="VideoJS/lang/hu.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\it.js" Url="VideoJS/lang/it.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\ja.js" Url="VideoJS/lang/ja.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\ko.js" Url="VideoJS/lang/ko.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\nl.js" Url="VideoJS/lang/nl.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\pt-BR.js" Url="VideoJS/lang/pt-BR.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\ru.js" Url="VideoJS/lang/ru.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\tr.js" Url="VideoJS/lang/tr.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\uk.js" Url="VideoJS/lang/uk.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\vi.js" Url="VideoJS/lang/vi.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\zh-CN.js" Url="VideoJS/lang/zh-CN.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\VideoJS\lang\zh-TW.js" Url="VideoJS/lang/zh-TW.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\css\bootstrap-custom.css" Url="bootstrap/css/bootstrap-custom.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\css\bootstrap.min.css" Url="bootstrap/css/bootstrap.min.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\css\font-awesome.min.css" Url="bootstrap/css/font-awesome.min.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\fontawesome-webfont.eot" Url="bootstrap/fonts/fontawesome-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\fontawesome-webfont.svg" Url="bootstrap/fonts/fontawesome-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\fontawesome-webfont.ttf" Url="bootstrap/fonts/fontawesome-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\fontawesome-webfont.woff" Url="bootstrap/fonts/fontawesome-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\fontawesome-webfont.woff2" Url="bootstrap/fonts/fontawesome-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\FontAwesome.otf" Url="bootstrap/fonts/FontAwesome.otf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\glyphicons-halflings-regular.eot" Url="bootstrap/fonts/glyphicons-halflings-regular.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\glyphicons-halflings-regular.svg" Url="bootstrap/fonts/glyphicons-halflings-regular.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\glyphicons-halflings-regular.ttf" Url="bootstrap/fonts/glyphicons-halflings-regular.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\fonts\glyphicons-halflings-regular.woff" Url="bootstrap/fonts/glyphicons-halflings-regular.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\img\glyphicons-halflings-white.png" Url="bootstrap/img/glyphicons-halflings-white.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\img\glyphicons-halflings.png" Url="bootstrap/img/glyphicons-halflings.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\js\bootstrap-custom.js" Url="bootstrap/js/bootstrap-custom.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\js\bootstrap.min.js" Url="bootstrap/js/bootstrap.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\js\jquery-1.8.3.min.js" Url="bootstrap/js/jquery-1.8.3.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\js\linq.min.js" Url="bootstrap/js/linq.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\js\modernizr.2.6.2.custom.min.js" Url="bootstrap/js/modernizr.2.6.2.custom.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bootstrap\js\respond.min.js" Url="bootstrap/js/respond.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\_bourbon-deprecated-upcoming.scss" Url="bourbon/_bourbon-deprecated-upcoming.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\_bourbon.scss" Url="bourbon/_bourbon.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_border-color.scss" Url="bourbon/addons/_border-color.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_border-radius.scss" Url="bourbon/addons/_border-radius.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_border-style.scss" Url="bourbon/addons/_border-style.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_border-width.scss" Url="bourbon/addons/_border-width.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_buttons.scss" Url="bourbon/addons/_buttons.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_clearfix.scss" Url="bourbon/addons/_clearfix.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_ellipsis.scss" Url="bourbon/addons/_ellipsis.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_font-stacks.scss" Url="bourbon/addons/_font-stacks.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_hide-text.scss" Url="bourbon/addons/_hide-text.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_margin.scss" Url="bourbon/addons/_margin.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_padding.scss" Url="bourbon/addons/_padding.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_position.scss" Url="bourbon/addons/_position.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_prefixer.scss" Url="bourbon/addons/_prefixer.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_retina-image.scss" Url="bourbon/addons/_retina-image.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_size.scss" Url="bourbon/addons/_size.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_text-inputs.scss" Url="bourbon/addons/_text-inputs.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_timing-functions.scss" Url="bourbon/addons/_timing-functions.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_triangle.scss" Url="bourbon/addons/_triangle.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\addons\_word-wrap.scss" Url="bourbon/addons/_word-wrap.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_animation.scss" Url="bourbon/css3/_animation.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_appearance.scss" Url="bourbon/css3/_appearance.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_backface-visibility.scss" Url="bourbon/css3/_backface-visibility.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_background-image.scss" Url="bourbon/css3/_background-image.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_background.scss" Url="bourbon/css3/_background.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_border-image.scss" Url="bourbon/css3/_border-image.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_calc.scss" Url="bourbon/css3/_calc.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_columns.scss" Url="bourbon/css3/_columns.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_filter.scss" Url="bourbon/css3/_filter.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_flex-box.scss" Url="bourbon/css3/_flex-box.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_font-face.scss" Url="bourbon/css3/_font-face.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_font-feature-settings.scss" Url="bourbon/css3/_font-feature-settings.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_hidpi-media-query.scss" Url="bourbon/css3/_hidpi-media-query.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_hyphens.scss" Url="bourbon/css3/_hyphens.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_image-rendering.scss" Url="bourbon/css3/_image-rendering.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_keyframes.scss" Url="bourbon/css3/_keyframes.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_linear-gradient.scss" Url="bourbon/css3/_linear-gradient.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_perspective.scss" Url="bourbon/css3/_perspective.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_placeholder.scss" Url="bourbon/css3/_placeholder.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_radial-gradient.scss" Url="bourbon/css3/_radial-gradient.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_selection.scss" Url="bourbon/css3/_selection.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_text-decoration.scss" Url="bourbon/css3/_text-decoration.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_transform.scss" Url="bourbon/css3/_transform.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_transition.scss" Url="bourbon/css3/_transition.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\css3\_user-select.scss" Url="bourbon/css3/_user-select.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_assign-inputs.scss" Url="bourbon/functions/_assign-inputs.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_contains-falsy.scss" Url="bourbon/functions/_contains-falsy.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_contains.scss" Url="bourbon/functions/_contains.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_is-length.scss" Url="bourbon/functions/_is-length.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_is-light.scss" Url="bourbon/functions/_is-light.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_is-number.scss" Url="bourbon/functions/_is-number.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_is-size.scss" Url="bourbon/functions/_is-size.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_modular-scale.scss" Url="bourbon/functions/_modular-scale.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_px-to-em.scss" Url="bourbon/functions/_px-to-em.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_px-to-rem.scss" Url="bourbon/functions/_px-to-rem.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_shade.scss" Url="bourbon/functions/_shade.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_strip-units.scss" Url="bourbon/functions/_strip-units.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_tint.scss" Url="bourbon/functions/_tint.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_transition-property-name.scss" Url="bourbon/functions/_transition-property-name.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\functions\_unpack.scss" Url="bourbon/functions/_unpack.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_convert-units.scss" Url="bourbon/helpers/_convert-units.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_directional-values.scss" Url="bourbon/helpers/_directional-values.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_font-source-declaration.scss" Url="bourbon/helpers/_font-source-declaration.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_gradient-positions-parser.scss" Url="bourbon/helpers/_gradient-positions-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_linear-angle-parser.scss" Url="bourbon/helpers/_linear-angle-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_linear-gradient-parser.scss" Url="bourbon/helpers/_linear-gradient-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_linear-positions-parser.scss" Url="bourbon/helpers/_linear-positions-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_linear-side-corner-parser.scss" Url="bourbon/helpers/_linear-side-corner-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_radial-arg-parser.scss" Url="bourbon/helpers/_radial-arg-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_radial-gradient-parser.scss" Url="bourbon/helpers/_radial-gradient-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_radial-positions-parser.scss" Url="bourbon/helpers/_radial-positions-parser.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_render-gradients.scss" Url="bourbon/helpers/_render-gradients.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_shape-size-stripper.scss" Url="bourbon/helpers/_shape-size-stripper.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\helpers\_str-to-num.scss" Url="bourbon/helpers/_str-to-num.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\settings\_asset-pipeline.scss" Url="bourbon/settings/_asset-pipeline.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\settings\_prefixer.scss" Url="bourbon/settings/_prefixer.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\bourbon\settings\_px-to-em.scss" Url="bourbon/settings/_px-to-em.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-black-webfont.eot" Url="Fonts/roboto-black-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-black-webfont.svg" Url="Fonts/roboto-black-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-black-webfont.ttf" Url="Fonts/roboto-black-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-black-webfont.woff" Url="Fonts/roboto-black-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-black-webfont.woff2" Url="Fonts/roboto-black-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-blackitalic-webfont.eot" Url="Fonts/roboto-blackitalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-blackitalic-webfont.svg" Url="Fonts/roboto-blackitalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-blackitalic-webfont.ttf" Url="Fonts/roboto-blackitalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-blackitalic-webfont.woff" Url="Fonts/roboto-blackitalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-blackitalic-webfont.woff2" Url="Fonts/roboto-blackitalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bold-webfont.eot" Url="Fonts/roboto-bold-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bold-webfont.svg" Url="Fonts/roboto-bold-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bold-webfont.ttf" Url="Fonts/roboto-bold-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bold-webfont.woff" Url="Fonts/roboto-bold-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bold-webfont.woff2" Url="Fonts/roboto-bold-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bolditalic-webfont.eot" Url="Fonts/roboto-bolditalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bolditalic-webfont.svg" Url="Fonts/roboto-bolditalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bolditalic-webfont.ttf" Url="Fonts/roboto-bolditalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bolditalic-webfont.woff" Url="Fonts/roboto-bolditalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-bolditalic-webfont.woff2" Url="Fonts/roboto-bolditalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-italic-webfont.eot" Url="Fonts/roboto-italic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-italic-webfont.svg" Url="Fonts/roboto-italic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-italic-webfont.ttf" Url="Fonts/roboto-italic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-italic-webfont.woff" Url="Fonts/roboto-italic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-italic-webfont.woff2" Url="Fonts/roboto-italic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-light-webfont.eot" Url="Fonts/roboto-light-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-light-webfont.svg" Url="Fonts/roboto-light-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-light-webfont.ttf" Url="Fonts/roboto-light-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-light-webfont.woff" Url="Fonts/roboto-light-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-light-webfont.woff2" Url="Fonts/roboto-light-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-lightitalic-webfont.eot" Url="Fonts/roboto-lightitalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-lightitalic-webfont.svg" Url="Fonts/roboto-lightitalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-lightitalic-webfont.ttf" Url="Fonts/roboto-lightitalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-lightitalic-webfont.woff" Url="Fonts/roboto-lightitalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-lightitalic-webfont.woff2" Url="Fonts/roboto-lightitalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-medium-webfont.eot" Url="Fonts/roboto-medium-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-medium-webfont.svg" Url="Fonts/roboto-medium-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-medium-webfont.ttf" Url="Fonts/roboto-medium-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-medium-webfont.woff" Url="Fonts/roboto-medium-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-medium-webfont.woff2" Url="Fonts/roboto-medium-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-mediumitalic-webfont.eot" Url="Fonts/roboto-mediumitalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-mediumitalic-webfont.svg" Url="Fonts/roboto-mediumitalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-mediumitalic-webfont.ttf" Url="Fonts/roboto-mediumitalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-mediumitalic-webfont.woff" Url="Fonts/roboto-mediumitalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-mediumitalic-webfont.woff2" Url="Fonts/roboto-mediumitalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-regular-webfont.eot" Url="Fonts/roboto-regular-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-regular-webfont.svg" Url="Fonts/roboto-regular-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-regular-webfont.ttf" Url="Fonts/roboto-regular-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-regular-webfont.woff" Url="Fonts/roboto-regular-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-regular-webfont.woff2" Url="Fonts/roboto-regular-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thin-webfont.eot" Url="Fonts/roboto-thin-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thin-webfont.svg" Url="Fonts/roboto-thin-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thin-webfont.ttf" Url="Fonts/roboto-thin-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thin-webfont.woff" Url="Fonts/roboto-thin-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thin-webfont.woff2" Url="Fonts/roboto-thin-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thinitalic-webfont.eot" Url="Fonts/roboto-thinitalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thinitalic-webfont.svg" Url="Fonts/roboto-thinitalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thinitalic-webfont.ttf" Url="Fonts/roboto-thinitalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thinitalic-webfont.woff" Url="Fonts/roboto-thinitalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\roboto-thinitalic-webfont.woff2" Url="Fonts/roboto-thinitalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bold-webfont.eot" Url="Fonts/robotocondensed-bold-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bold-webfont.svg" Url="Fonts/robotocondensed-bold-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bold-webfont.ttf" Url="Fonts/robotocondensed-bold-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bold-webfont.woff" Url="Fonts/robotocondensed-bold-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bold-webfont.woff2" Url="Fonts/robotocondensed-bold-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bolditalic-webfont.eot" Url="Fonts/robotocondensed-bolditalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bolditalic-webfont.svg" Url="Fonts/robotocondensed-bolditalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bolditalic-webfont.ttf" Url="Fonts/robotocondensed-bolditalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bolditalic-webfont.woff" Url="Fonts/robotocondensed-bolditalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-bolditalic-webfont.woff2" Url="Fonts/robotocondensed-bolditalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-italic-webfont.eot" Url="Fonts/robotocondensed-italic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-italic-webfont.svg" Url="Fonts/robotocondensed-italic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-italic-webfont.ttf" Url="Fonts/robotocondensed-italic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-italic-webfont.woff" Url="Fonts/robotocondensed-italic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-italic-webfont.woff2" Url="Fonts/robotocondensed-italic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-light-webfont.eot" Url="Fonts/robotocondensed-light-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-light-webfont.svg" Url="Fonts/robotocondensed-light-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-light-webfont.ttf" Url="Fonts/robotocondensed-light-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-light-webfont.woff" Url="Fonts/robotocondensed-light-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-light-webfont.woff2" Url="Fonts/robotocondensed-light-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-lightitalic-webfont.eot" Url="Fonts/robotocondensed-lightitalic-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-lightitalic-webfont.svg" Url="Fonts/robotocondensed-lightitalic-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-lightitalic-webfont.ttf" Url="Fonts/robotocondensed-lightitalic-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-lightitalic-webfont.woff" Url="Fonts/robotocondensed-lightitalic-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-lightitalic-webfont.woff2" Url="Fonts/robotocondensed-lightitalic-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-regular-webfont.eot" Url="Fonts/robotocondensed-regular-webfont.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-regular-webfont.svg" Url="Fonts/robotocondensed-regular-webfont.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-regular-webfont.ttf" Url="Fonts/robotocondensed-regular-webfont.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-regular-webfont.woff" Url="Fonts/robotocondensed-regular-webfont.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Fonts\robotocondensed-regular-webfont.woff2" Url="Fonts/robotocondensed-regular-webfont.woff2" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\footable.core.css" Url="footable/css/footable.core.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\footable.core.min.css" Url="footable/css/footable.core.min.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\footable.metro.css" Url="footable/css/footable.metro.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\footable.metro.min.css" Url="footable/css/footable.metro.min.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\footable.standalone.css" Url="footable/css/footable.standalone.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\footable.standalone.min.css" Url="footable/css/footable.standalone.min.css" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\fonts\footable.eot" Url="footable/css/fonts/footable.eot" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\fonts\footable.svg" Url="footable/css/fonts/footable.svg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\fonts\footable.ttf" Url="footable/css/fonts/footable.ttf" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\css\fonts\footable.woff" Url="footable/css/fonts/footable.woff" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.bookmarkable.js" Url="footable/js/footable.bookmarkable.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.filter.js" Url="footable/js/footable.filter.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.grid.js" Url="footable/js/footable.grid.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.js" Url="footable/js/footable.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.memory.js" Url="footable/js/footable.memory.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.paginate.js" Url="footable/js/footable.paginate.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.plugin.template.js" Url="footable/js/footable.plugin.template.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.sort.js" Url="footable/js/footable.sort.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\footable\js\footable.striping.js" Url="footable/js/footable.striping.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\bg_favorite.png" Url="Images/bg_favorite.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\bg_notification.png" Url="Images/bg_notification.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\bg_resource.png" Url="Images/bg_resource.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\bg_support.png" Url="Images/bg_support.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\CostDriver.jpg" Url="Images/CostDriver.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\default_profile.jpg" Url="Images/default_profile.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\DefaultCity.jpg" Url="Images/DefaultCity.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\etpsg.png" Url="Images/etpsg.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\etpsi.png" Url="Images/etpsi.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\favicon.ico" Url="Images/favicon.ico" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\favicon.png" Url="Images/favicon.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\hamburger.png" Url="Images/hamburger.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\howto_herobardefault.jpg" Url="Images/howto_herobardefault.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\howto_thumb.jpg" Url="Images/howto_thumb.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\icon_play.png" Url="Images/icon_play.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ignite.logo.mobile.png" Url="Images/ignite.logo.mobile.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ignite.logo.png" Url="Images/ignite.logo.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\IMG5.jpg" Url="Images/IMG5.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\IMG6.jpg" Url="Images/IMG6.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\IMG7.jpg" Url="Images/IMG7.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\its_info_background.jpg" Url="Images/its_info_background.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\its_info_background.png" Url="Images/its_info_background.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\lion.logo.png" Url="Images/lion.logo.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\livehelp.png" Url="Images/livehelp.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\notification.background.jpg" Url="Images/notification.background.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\notification_arrow_collapse.png" Url="Images/notification_arrow_collapse.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\notification_arrow_expland.png" Url="Images/notification_arrow_expland.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\option.png" Url="Images/option.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\playIcon.png" Url="Images/playIcon.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\product_herobardefault.jpg" Url="Images/product_herobardefault.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ProductFAQArrowBottom.png" Url="Images/ProductFAQArrowBottom.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ProductFAQArrowRight.png" Url="Images/ProductFAQArrowRight.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ProductPageLayout.jpg" Url="Images/ProductPageLayout.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Resouces.Ignite.Logo.Mobile.png" Url="Images/Resouces.Ignite.Logo.Mobile.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Resouces.Ignite.Logo.png" Url="Images/Resouces.Ignite.Logo.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\resource.wp.background.jpg" Url="Images/resource.wp.background.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\resource_arrow_collapse.png" Url="Images/resource_arrow_collapse.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\resource_arrow_expland.png" Url="Images/resource_arrow_expland.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\support.wp.background.jpg" Url="Images/support.wp.background.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\support.wp.mobile.background.jpg" Url="Images/support.wp.mobile.background.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\support_arrow_collapse.png" Url="Images/support_arrow_collapse.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\support_arrow_expland.png" Url="Images/support_arrow_expland.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\support_check_icon.png" Url="Images/support_check_icon.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\support_uncheck_icon.png" Url="Images/support_uncheck_icon.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\team_herobardefault.jpg" Url="Images/team_herobardefault.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\team_member_thumb.jpg" Url="Images/team_member_thumb.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Untitled2.png" Url="Images/Untitled2.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\user_info_arrow.png" Url="Images/user_info_arrow.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Favorite\background.png" Url="Images/Favorite/background.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\HeroBar\Ellipse.png" Url="Images/HeroBar/Ellipse.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\HeroBar\EllipseDrop.png" Url="Images/HeroBar/EllipseDrop.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\HeroBar\EllipseFocus.png" Url="Images/HeroBar/EllipseFocus.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\HeroBar\MoveLeft.png" Url="Images/HeroBar/MoveLeft.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\HeroBar\MoveRight.png" Url="Images/HeroBar/MoveRight.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\HeroBar\Selected.png" Url="Images/HeroBar/Selected.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\MyResources\james_collins.jpg" Url="Images/MyResources/james_collins.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\MyResources\jenifer.jpg" Url="Images/MyResources/jenifer.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\MyResources\matei_gheorghiu.jpg" Url="Images/MyResources/matei_gheorghiu.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Arco-Nobels.jpg" Url="Images/OurTeam/Arco-Nobels.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\AshokSethi-Photo.jpg" Url="Images/OurTeam/AshokSethi-Photo.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Frank-Voris.jpg" Url="Images/OurTeam/Frank-Voris.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Lois-Drumhiller.jpg" Url="Images/OurTeam/Lois-Drumhiller.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Manvinder-Oberoi.jpg" Url="Images/OurTeam/Manvinder-Oberoi.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Mike-Rael.jpg" Url="Images/OurTeam/Mike-Rael.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Olivier-Vanderpotte.jpg" Url="Images/OurTeam/Olivier-Vanderpotte.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Richard-Lord.jpg" Url="Images/OurTeam/Richard-Lord.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\ThomLangford.jpg" Url="Images/OurTeam/ThomLangford.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\OurTeam\Tom-Caffrey.jpg" Url="Images/OurTeam/Tom-Caffrey.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ProductPage\blogBackgroundImage.jpg" Url="Images/ProductPage/blogBackgroundImage.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ProductPage\blogBackgroundImg.jpg" Url="Images/ProductPage/blogBackgroundImg.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\ProductPage\blogImage.jpg" Url="Images/ProductPage/blogImage.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Social\ces.png" Url="Images/Social/ces.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Social\social_background.png" Url="Images/Social/social_background.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\316x301_lrg_monsson.jpg" Url="Images/Spotlight/316x301_lrg_monsson.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\320x240_mobile-width.jpg" Url="Images/Spotlight/320x240_mobile-width.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\b21.png" Url="Images/Spotlight/b21.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\portrait-o.jpg" Url="Images/Spotlight/portrait-o.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\portrait-o1xs.jpg" Url="Images/Spotlight/portrait-o1xs.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\profilephoto.png" Url="Images/Spotlight/profilephoto.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\pub_sap_home.jpg" Url="Images/Spotlight/pub_sap_home.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\pub_sap_mobile.jpg" Url="Images/Spotlight/pub_sap_mobile.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\RestrictedIntelligence.png" Url="Images/Spotlight/RestrictedIntelligence.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\Spotlight\RestrictedIntelligenceMobile.png" Url="Images/Spotlight/RestrictedIntelligenceMobile.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\SubCat\GettyImages-173117589.jpg" Url="Images/SubCat/GettyImages-173117589.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\SubCat\GettyImages-466643976.jpg" Url="Images/SubCat/GettyImages-466643976.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\SubCat\GettyImages-508066399.jpg" Url="Images/SubCat/GettyImages-508066399.jpg" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\angular-grid.scss" Url="Sass/angular-grid.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\blog_detail_page.scss" Url="Sass/blog_detail_page.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\custom_scrollbar.scss" Url="Sass/custom_scrollbar.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\favorite_wp.scss" Url="Sass/favorite_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\features_wp.scss" Url="Sass/features_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\herobar_inside_wp.scss" Url="Sass/herobar_inside_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\herobar_wp.scss" Url="Sass/herobar_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\home_spotlight_wp.scss" Url="Sass/home_spotlight_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\howto_wp.scss" Url="Sass/howto_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\its_herobar_wp.scss" Url="Sass/its_herobar_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\its_information_service_wp.scss" Url="Sass/its_information_service_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\its_subcategories_wp.scss" Url="Sass/its_subcategories_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\jquery_sidr_light.scss" Url="Sass/jquery_sidr_light.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\language_selection_wp.scss" Url="Sass/language_selection_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\my_resource_wp.scss" Url="Sass/my_resource_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\notification_wp.scss" Url="Sass/notification_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_blog_wp.scss" Url="Sass/product_blog_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_contact_wp.scss" Url="Sass/product_contact_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_cost_wp.scss" Url="Sass/product_cost_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_fag_wp.scss" Url="Sass/product_fag_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_herobar_wp.scss" Url="Sass/product_herobar_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_image_wp.scss" Url="Sass/product_image_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_overview_wp.scss" Url="Sass/product_overview_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_proofpoint_wp.scss" Url="Sass/product_proofpoint_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\product_video_wp.scss" Url="Sass/product_video_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\responsive.scss" Url="Sass/responsive.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\security_content_wp.scss" Url="Sass/security_content_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\settings.scss" Url="Sass/settings.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\sidebar_wp.scss" Url="Sass/sidebar_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\social_wp.scss" Url="Sass/social_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\styles.scss" Url="Sass/styles.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\subcategories_wp.scss" Url="Sass/subcategories_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\support_wp.scss" Url="Sass/support_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\team_wp.scss" Url="Sass/team_wp.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\theme_fresh.scss" Url="Sass/theme_fresh.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Sass\view_more_page.scss" Url="Sass/view_more_page.scss" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\SideBar.js" Url="Scripts/SideBar.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Images\lion.logo2.png" Url="Images/lion.logo2.png" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\app_include.js" Url="Scripts/app_include.js" IgnoreIfAlreadyExists="TRUE" ReplaceContent="FALSE" />
+    <File Path="SiteAssets\Scripts\Favorite.Webpart.js" Url="Scripts/Favorite.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\FeaturesBenefits.Webpart.js" Url="Scripts/FeaturesBenefits.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\HeroBar.WebPart.js" Url="Scripts/HeroBar.WebPart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\Home_MyReSource.WebPart.js" Url="Scripts/Home_MyReSource.WebPart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\home_spotlight_detail.js" Url="Scripts/home_spotlight_detail.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\Home_Spotlight_HiddenField.js" Url="Scripts/Home_Spotlight_HiddenField.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\Home_Spotlight_HiddenField_NewForm.js" Url="Scripts/Home_Spotlight_HiddenField_NewForm.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE"/>
+    <File Path="SiteAssets\Scripts\HowTo_Content.Webpar.js" Url="Scripts/HowTo_Content.Webpar.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\HowTo_HeroBar.Webpar.js" Url="Scripts/HowTo_HeroBar.Webpar.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\its_herobar.js" Url="Scripts/its_herobar.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\its_info.js" Url="Scripts/its_info.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\its_Tools.js" Url="Scripts/its_Tools.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\OurTeam_Content.Webpart.js" Url="Scripts/OurTeam_Content.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\OurTeam_HeroBar.Webpart.js" Url="Scripts/OurTeam_HeroBar.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\Product_FAQ.Webpart.js" Url="Scripts/Product_FAQ.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\Product_HeroBar.Webpart.js" Url="Scripts/Product_HeroBar.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\Product_Video.Webpart.js" Url="Scripts/Product_Video.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\ProductContact.Webpart.js" Url="Scripts/ProductContact.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\ProductCost.Webpart.js" Url="Scripts/ProductCost.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\ProductImage.Webpart.js" Url="Scripts/ProductImage.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\ProductOverview.Webpart.js" Url="Scripts/ProductOverview.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\ProductProofPoint.Webpart.js" Url="Scripts/ProductProofPoint.Webpart.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\subcategory.js" Url="Scripts/subcategory.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\helper.js" Url="Scripts/helper.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\angular\angular.min.js" Url="lib/angular/angular.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\angular\angular-sanitize.min.js" Url="lib/angular/angular-sanitize.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\jquery\jquery-1.11.3.js" Url="lib/jquery/jquery-1.11.3.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\jquery\jquery-1.11.3.min.js" Url="lib/jquery/jquery-1.11.3.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\jquery\jquery-1.11.3.min.map" Url="lib/jquery/jquery-1.11.3.min.map" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\moment\moment.js" Url="lib/moment/moment.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\moment\moment.min.js" Url="lib/moment/moment.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\require\r.js" Url="lib/require/r.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\require\require.js" Url="lib/require/require.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\common\appContext.js" Url="Scripts/common/appContext.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\common\appFilter.js" Url="Scripts/common/appFilter.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\common\appSetting.js" Url="Scripts/common/appSetting.js" IgnoreIfAlreadyExists="TRUE" ReplaceContent="FALSE" />
+    <File Path="SiteAssets\Scripts\common\appHelper.js" Url="Scripts/common/appHelper.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\angular\angular-message-format.js" Url="lib/angular/angular-message-format.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\angular\angular-message-format.min.js" Url="lib/angular/angular-message-format.min.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\angular\angular-message-format.min.js.map" Url="lib/angular/angular-message-format.min.js.map" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\services\navigationService.js" Url="Scripts/services/navigationService.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\lib\loader\svg-loaders\tail-spin.svg" Url="lib/loader/svg-loaders/tail-spin.svg" />
+    <File Path="SiteAssets\Scripts\controllers\itsSubCategoryController.js" Url="Scripts/controllers/itsSubCategoryController.js" />
+    
+    <File Path="SiteAssets\Scripts\controllers\homeNotificationController.js" Url="Scripts/controllers/homeNotificationController.js" />
+    <File Path="SiteAssets\Scripts\controllers\homeSupportController.js" Url="Scripts/controllers/homeSupportController.js" />
+    <File Path="SiteAssets\Scripts\services\homeSupportService.js" Url="Scripts/services/homeSupportService.js" />
+    <File Path="SiteAssets\Scripts\its_Social.js" Url="Scripts/its_Social.js" IgnoreIfAlreadyExists="FALSE" ReplaceContent="TRUE" />
+    <File Path="SiteAssets\Scripts\directives\customDirectives.js" Url="Scripts/directives/customDirectives.js" />
+    <File Path="SiteAssets\Scripts\directives\templates\megaMenuTemplate.html" Url="Scripts/directives/templates/megaMenuTemplate.html" />
+    <File Path="SiteAssets\Scripts\controllers\systemController.js" Url="Scripts/controllers/systemController.js" />
+    <File Path="SiteAssets\Scripts\directives\templates\dropdownLanguageTemplate.html" Url="Scripts/directives/templates/dropdownLanguageTemplate.html" />
+    <File Path="SiteAssets\Styles\system\customSystem.css" Url="Styles/system/customSystem.css" />
+    <File Path="SiteAssets\Styles\publishing\customPublishing.css" Url="Styles/publishing/customPublishing.css" />
+    <File Path="SiteAssets\Scripts\services\searchService.js" Url="Scripts/services/searchService.js" />
+    <File Path="SiteAssets\Scripts\services\userProfileService.js" Url="Scripts/services/userProfileService.js" />
+    <File Path="SiteAssets\lib\jquery.mmenu\jquery.mmenu.all.css" Url="lib/jquery.mmenu/jquery.mmenu.all.css" />
+    <File Path="SiteAssets\lib\jquery.mmenu\jquery.mmenu.min.all.js" Url="lib/jquery.mmenu/jquery.mmenu.min.all.js" />
+    <File Path="SiteAssets\lib\jquery.mCustomScrollbar\jquery.mCustomScrollbar.js" Url="lib/jquery.mCustomScrollbar/jquery.mCustomScrollbar.js" />
+    <File Path="SiteAssets\lib\modernizr\modernizr-custom.js" Url="lib/modernizr/modernizr-custom.js" />
+    <File Path="SiteAssets\lib\angular-grid\angular-grid.css" Url="lib/angular-grid/angular-grid.css" />
+    <File Path="SiteAssets\lib\angular-grid\angular-grid.min.js" Url="lib/angular-grid/angular-grid.min.js" />
+    <File Path="SiteAssets\lib\videojs\font\vjs.eot" Url="lib/videojs/font/vjs.eot" />
+    <File Path="SiteAssets\lib\videojs\font\vjs.svg" Url="lib/videojs/font/vjs.svg" />
+    <File Path="SiteAssets\lib\videojs\font\vjs.ttf" Url="lib/videojs/font/vjs.ttf" />
+    <File Path="SiteAssets\lib\videojs\font\vjs.woff" Url="lib/videojs/font/vjs.woff" />
+    <File Path="SiteAssets\lib\videojs\lang\ar.js" Url="lib/videojs/lang/ar.js" />
+    <File Path="SiteAssets\lib\videojs\lang\bg.js" Url="lib/videojs/lang/bg.js" />
+    <File Path="SiteAssets\lib\videojs\lang\ca.js" Url="lib/videojs/lang/ca.js" />
+    <File Path="SiteAssets\lib\videojs\lang\cs.js" Url="lib/videojs/lang/cs.js" />
+    <File Path="SiteAssets\lib\videojs\lang\de.js" Url="lib/videojs/lang/de.js" />
+    <File Path="SiteAssets\lib\videojs\lang\es.js" Url="lib/videojs/lang/es.js" />
+    <File Path="SiteAssets\lib\videojs\lang\fr.js" Url="lib/videojs/lang/fr.js" />
+    <File Path="SiteAssets\lib\videojs\lang\hu.js" Url="lib/videojs/lang/hu.js" />
+    <File Path="SiteAssets\lib\videojs\lang\it.js" Url="lib/videojs/lang/it.js" />
+    <File Path="SiteAssets\lib\videojs\lang\ja.js" Url="lib/videojs/lang/ja.js" />
+    <File Path="SiteAssets\lib\videojs\lang\ko.js" Url="lib/videojs/lang/ko.js" />
+    <File Path="SiteAssets\lib\videojs\lang\nl.js" Url="lib/videojs/lang/nl.js" />
+    <File Path="SiteAssets\lib\videojs\lang\pt-BR.js" Url="lib/videojs/lang/pt-BR.js" />
+    <File Path="SiteAssets\lib\videojs\lang\ru.js" Url="lib/videojs/lang/ru.js" />
+    <File Path="SiteAssets\lib\videojs\lang\tr.js" Url="lib/videojs/lang/tr.js" />
+    <File Path="SiteAssets\lib\videojs\lang\uk.js" Url="lib/videojs/lang/uk.js" />
+    <File Path="SiteAssets\lib\videojs\lang\vi.js" Url="lib/videojs/lang/vi.js" />
+    <File Path="SiteAssets\lib\videojs\lang\zh-CN.js" Url="lib/videojs/lang/zh-CN.js" />
+    <File Path="SiteAssets\lib\videojs\lang\zh-TW.js" Url="lib/videojs/lang/zh-TW.js" />
+    <File Path="SiteAssets\lib\videojs\video.js" Url="lib/videojs/video.js" />
+    <File Path="SiteAssets\lib\videojs\video.novtt.js" Url="lib/videojs/video.novtt.js" />
+    <File Path="SiteAssets\lib\videojs\video-js.css" Url="lib/videojs/video-js.css" />
+    <File Path="SiteAssets\lib\videojs\video-js.less" Url="lib/videojs/video-js.less" />
+    <File Path="SiteAssets\lib\videojs\video-js.swf" Url="lib/videojs/video-js.swf" />
+    <File Path="SiteAssets\lib\angular\angular-touch.min.js.map" Url="lib/angular/angular-touch.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular.js" Url="lib/angular/angular.js" />
+    <File Path="SiteAssets\lib\angular\angular.min.js.map" Url="lib/angular/angular.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-animate.js" Url="lib/angular/angular-animate.js" />
+    <File Path="SiteAssets\lib\angular\angular-animate.min.js" Url="lib/angular/angular-animate.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-animate.min.js.map" Url="lib/angular/angular-animate.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-aria.js" Url="lib/angular/angular-aria.js" />
+    <File Path="SiteAssets\lib\angular\angular-aria.min.js" Url="lib/angular/angular-aria.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-aria.min.js.map" Url="lib/angular/angular-aria.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-cookies.js" Url="lib/angular/angular-cookies.js" />
+    <File Path="SiteAssets\lib\angular\angular-cookies.min.js" Url="lib/angular/angular-cookies.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-cookies.min.js.map" Url="lib/angular/angular-cookies.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-csp.css" Url="lib/angular/angular-csp.css" />
+    <File Path="SiteAssets\lib\angular\angular-loader.js" Url="lib/angular/angular-loader.js" />
+    <File Path="SiteAssets\lib\angular\angular-loader.min.js" Url="lib/angular/angular-loader.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-loader.min.js.map" Url="lib/angular/angular-loader.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-messages.js" Url="lib/angular/angular-messages.js" />
+    <File Path="SiteAssets\lib\angular\angular-messages.min.js" Url="lib/angular/angular-messages.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-messages.min.js.map" Url="lib/angular/angular-messages.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-mocks.js" Url="lib/angular/angular-mocks.js" />
+    <File Path="SiteAssets\lib\angular\angular-resource.js" Url="lib/angular/angular-resource.js" />
+    <File Path="SiteAssets\lib\angular\angular-resource.min.js" Url="lib/angular/angular-resource.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-resource.min.js.map" Url="lib/angular/angular-resource.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-route.js" Url="lib/angular/angular-route.js" />
+    <File Path="SiteAssets\lib\angular\angular-route.min.js" Url="lib/angular/angular-route.min.js" />
+    <File Path="SiteAssets\lib\angular\angular-route.min.js.map" Url="lib/angular/angular-route.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-sanitize.js" Url="lib/angular/angular-sanitize.js" />
+    <File Path="SiteAssets\lib\angular\angular-sanitize.min.js.map" Url="lib/angular/angular-sanitize.min.js.map" />
+    <File Path="SiteAssets\lib\angular\angular-scenario.js" Url="lib/angular/angular-scenario.js" />
+    <File Path="SiteAssets\lib\angular\angular-touch.js" Url="lib/angular/angular-touch.js" />
+    <File Path="SiteAssets\lib\angular\angular-touch.min.js" Url="lib/angular/angular-touch.min.js" />
+    <File Path="SiteAssets\Scripts\controllers\mainController.js" Url="Scripts/controllers/mainController.js" />
+    <File Path="SiteAssets\Scripts\directives\templates\footerTemplate.html" Url="Scripts/directives/templates/footerTemplate.html" />
+    <File Path="SiteAssets\Scripts\services\homeNotificationService.js" Url="Scripts/services/homeNotificationService.js" />
+    <File Path="SiteAssets\Scripts\services\homeSpotlightService.js" Url="Scripts/services/homeSpotlightService.js" />
+   
+    <File Path="SiteAssets\Scripts\services\helper.js" Url="Scripts/services/helper.js" />
+    <File Path="SiteAssets\Scripts\services\newsAndEventsService.js" Url="Scripts/services/newsAndEventsService.js" />
+    <File Path="SiteAssets\Scripts\services\spotlightCategoryService.js" Url="Scripts/services/spotlightCategoryService.js" />
+    <File Path="SiteAssets\Scripts\services\spotlightService.js" Url="Scripts/services/spotlightService.js" />
+    <File Path="SiteAssets\Scripts\controllers\newsAndEventController.js" Url="Scripts/controllers/newsAndEventController.js" />
+    <File Path="SiteAssets\Scripts\controllers\spotlightLeftMenuController.js" Url="Scripts/controllers/spotlightLeftMenuController.js" />
+    <File Path="SiteAssets\Scripts\controllers\spotlightRightMenuController.js" Url="Scripts/controllers/spotlightRightMenuController.js" />
+    <File Path="SiteAssets\Scripts\common\utilities.js" Url="Scripts/common/utilities.js" />
+    <File Path="SiteAssets\Scripts\directives\templates\sidebarMenuTemplate.html" Url="Scripts/directives/templates/sidebarMenuTemplate.html" />
+    <File Path="SiteAssets\Scripts\directives\templates\leftMenuTemplate.html" Url="Scripts/directives/templates/leftMenuTemplate.html" />
+    <File Path="SiteAssets\Scripts\controllers\gsoController.js" Url="Scripts/controllers/gsoController.js" />
+    <File Path="SiteAssets\lib\sidr\sidr.min.js" Url="lib/sidr/sidr.min.js" />
+    <File Path="SiteAssets\Styles\system\responssive.css" Url="Styles/system/responssive.css" />
+    <File Path="SiteAssets\Styles\publishing\responssive.css" Url="Styles/publishing/responssive.css" />
+    <File Path="SiteAssets\Scripts\directives\templates\gsoMenuTemplate.html" Url="Scripts/directives/templates/gsoMenuTemplate.html" />
+    <File Path="SiteAssets\Images\Procurement\Employee-Benefits-tile.png" Url="Images/Procurement/Employee-Benefits-tile.png" />
+    <File Path="SiteAssets\Images\Procurement\General-Services-tile.png" Url="Images/Procurement/General-Services-tile.png" />
+    <File Path="SiteAssets\Images\Procurement\IT-Procurement-tile.png" Url="Images/Procurement/IT-Procurement-tile.png" />
+    <File Path="SiteAssets\Images\Procurement\Production-tile.png" Url="Images/Procurement/Production-tile.png" />
+    <File Path="SiteAssets\Images\Procurement\ReS-Logo.png" Url="Images/Procurement/ReS-Logo.png" />
+    <File Path="SiteAssets\Images\Procurement\Travel-tile.png" Url="Images/Procurement/Travel-tile.png" />
+    <File Path="SiteAssets\Scripts\services\dataService.js" Url="Scripts/services/dataService.js" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.GSOButton.dwp" Url="Scripts/webparts/Publicis.GSOButton.dwp" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.GSOHeroBar.dwp" Url="Scripts/webparts/Publicis.GSOHeroBar.dwp" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.GSOMenu.dwp" Url="Scripts/webparts/Publicis.GSOMenu.dwp" />
+    <File Path="SiteAssets\Scripts\resources\resources.js" Url="Scripts/resources/resources.js" />
+    <File Path="SiteAssets\Scripts\controllers\webPartController.js" Url="Scripts/controllers/webPartController.js" />
+    <File Path="SiteAssets\Scripts\views\gsoButton.html" Url="Scripts/views/gsoButton.html" />
+    <File Path="SiteAssets\Scripts\views\gsoHeroBar.html" Url="Scripts/views/gsoHeroBar.html" />
+    <File Path="SiteAssets\Scripts\views\gsoMenu.html" Url="Scripts/views/gsoMenu.html" />
+    <File Path="SiteAssets\Scripts\controllers\gsoHeroBarController.js" Url="Scripts/controllers/gsoHeroBarController.js" />
+    <File Path="SiteAssets\Scripts\controllers\gsoMenuController.js" Url="Scripts/controllers/gsoMenuController.js" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.FontServiceYammer.dwp" Url="Scripts/webparts/Publicis.FontServiceYammer.dwp" />
+    <File Path="SiteAssets\Scripts\views\fontServiceYammer.html" Url="Scripts/views/fontServiceYammer.html" />
+    <File Path="SiteAssets\Scripts\controllers\fontServiceYammerController.js" Url="Scripts/controllers/fontServiceYammerController.js" />
+    <File Path="SiteAssets\lib\knockout\knockout-min.js" Url="lib/knockout/knockout-min.js" />
+    <File Path="SiteAssets\Scripts\directives\menu\menuItem.html" Url="Scripts/directives/menu/menuItem.html" />
+    <File Path="SiteAssets\Scripts\directives\menu\subMenuItem.html" Url="Scripts/directives/menu/subMenuItem.html" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.FontServiceCenter.dwp" Url="Scripts/webparts/Publicis.FontServiceCenter.dwp" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.FontServiceBlog.dwp" Url="Scripts/webparts/Publicis.FontServiceBlog.dwp" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.FontServiceProduct.dwp" Url="Scripts/webparts/Publicis.FontServiceProduct.dwp" />
+    <File Path="SiteAssets\Scripts\controllers\fontServiceBlogController.js" Url="Scripts/controllers/fontServiceBlogController.js" />
+    <File Path="SiteAssets\Scripts\controllers\fontServiceCenterController.js" Url="Scripts/controllers/fontServiceCenterController.js" />
+    <File Path="SiteAssets\Scripts\controllers\fontServiceProductController.js" Url="Scripts/controllers/fontServiceProductController.js" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlog.html" Url="Scripts/views/fontServiceBlog.html" />
+    <File Path="SiteAssets\Scripts\views\fontServiceHerobar.html" Url="Scripts/views/fontServiceHerobar.html" />
+    <File Path="SiteAssets\Scripts\views\fontServiceCenter.html" Url="Scripts/views/fontServiceCenter.html" />
+    <File Path="SiteAssets\Scripts\controllers\gsoButtonController.js" Url="Scripts/controllers/gsoButtonController.js" />
+    <File Path="SiteAssets\lib\knockout\knockout.js" Url="lib/knockout/knockout.js" />
+    <File Path="SiteAssets\lib\d3\d3.min.js" Url="lib/d3/d3.min.js" />
+    <File Path="SiteAssets\lib\d3\d3.js" Url="lib/d3/d3.js" />
+    <File Path="SiteAssets\lib\string\string.min.js" Url="lib/string/string.min.js" />
+    <File Path="SiteAssets\lib\string\string.js" Url="lib/string/string.js" />
+    <File Path="SiteAssets\Scripts\controllers\fsBlogPageController.js" Url="Scripts/controllers/fsBlogPageController.js" />
+    <File Path="SiteAssets\Scripts\services\fsBlogPageService.js" Url="Scripts/services/fsBlogPageService.js" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlogPageLeft.html" Url="Scripts/views/fontServiceBlogPageLeft.html" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlogPageRight.html" Url="Scripts/views/fontServiceBlogPageRight.html" />
+    <File Path="SiteAssets\Scripts\services\modalService.js" Url="Scripts/services/modalService.js" />
+    <File Path="SiteAssets\Scripts\services\spinnerService.js" Url="Scripts/services/spinnerService.js" />
+    <File Path="SiteAssets\lib\angular-spinner\angular-spinner.min.js.map" Url="lib/angular-spinner/angular-spinner.min.js.map" />
+    <File Path="SiteAssets\lib\angular-spinner\angular-spinner.js" Url="lib/angular-spinner/angular-spinner.js" />
+    <File Path="SiteAssets\lib\angular-spinner\angular-spinner.min.js" Url="lib/angular-spinner/angular-spinner.min.js" />
+    <File Path="SiteAssets\Scripts\views\getHelpDialog.html" Url="Scripts/views/getHelpDialog.html" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.GSONavigation.dwp" Url="Scripts/webparts/Publicis.GSONavigation.dwp" />
+    <File Path="SiteAssets\Scripts\webparts\Publicis.GSOCategoryTool.dwp" Url="Scripts/webparts/Publicis.GSOCategoryTool.dwp" />
+    <File Path="SiteAssets\Scripts\views\gsoNavigation.html" Url="Scripts/views/gsoNavigation.html" />
+    <File Path="SiteAssets\Scripts\controllers\gsoCategoryToolController.js" Url="Scripts/controllers/gsoCategoryToolController.js" />
+    <File Path="SiteAssets\Scripts\views\gsoCategoryTool.html" Url="Scripts/views/gsoCategoryTool.html" />
+    <File Path="SiteAssets\Styles\publishing\styles.css" Url="Styles/publishing/styles.css" />
+    <File Path="SiteAssets\Scripts\appConfigure.js" Url="Scripts/appConfigure.js" />
+    <File Path="SiteAssets\Scripts\appMain.js" Url="Scripts/appMain.js" />
+    <File Path="SiteAssets\lib\angular-material\angular-material.min.js" Url="lib/angular-material/angular-material.min.js" />
+    <File Path="SiteAssets\lib\angular-material\angular-material.min.css" Url="lib/angular-material/angular-material.min.css" />
+    <File Path="SiteAssets\Scripts\yammer.js" Url="Scripts/yammer.js" />
+    <File Path="SiteAssets\Scripts\utils\fancyHelper.js" Url="Scripts/utils/fancyHelper.js" />
+    <File Path="SiteAssets\Scripts\utils\emailHelper.js" Url="Scripts/utils/emailHelper.js" />
+    <File Path="SiteAssets\Scripts\utils\spHelper.js" Url="Scripts/utils/spHelper.js" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlogPageAllCategory.html" Url="Scripts/views/fontServiceBlogPageAllCategory.html" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlogPageCategory.html" Url="Scripts/views/fontServiceBlogPageCategory.html" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlogPageMonth.html" Url="Scripts/views/fontServiceBlogPageMonth.html" />
+    <File Path="SiteAssets\Scripts\views\fontServiceBlogPageOlderPosts.html" Url="Scripts/views/fontServiceBlogPageOlderPosts.html" />
+    <File Path="SiteAssets\Scripts\controllers\productProofPointController.js" Url="Scripts/controllers/productProofPointController.js" />
+    <File Path="SiteAssets\Scripts\views\productProofPoint.html" Url="Scripts/views/productProofPoint.html" />
+    <File Path="SiteAssets\Scripts\controllers\ourTeamContentController.js" Url="Scripts/controllers/ourTeamContentController.js" />
+    <File Path="SiteAssets\Scripts\controllers\ourTeamHeroBarController.js" Url="Scripts/controllers/ourTeamHeroBarController.js" />
+    <File Path="SiteAssets\Scripts\views\ourTeamContent.html" Url="Scripts/views/ourTeamContent.html" />
+    <File Path="SiteAssets\Scripts\views\ourTeamHeroBar.html" Url="Scripts/views/ourTeamHeroBar.html" />
+    <File Path="SiteAssets\Scripts\controllers\howToContentController.js" Url="Scripts/controllers/howToContentController.js" />
+    <File Path="SiteAssets\Scripts\controllers\howToHeroBarController.js" Url="Scripts/controllers/howToHeroBarController.js" />
+    <File Path="SiteAssets\Scripts\views\howToContent.html" Url="Scripts/views/howToContent.html" />
+    <File Path="SiteAssets\Scripts\views\howToHeroBar.html" Url="Scripts/views/howToHeroBar.html" />
+    <File Path="SiteAssets\Scripts\views\productLiteTools.html" Url="Scripts/views/productLiteTools.html" />
+    <File Path="SiteAssets\Scripts\controllers\productLiteToolsController.js" Url="Scripts/controllers/productLiteToolsController.js" />
+    <File Path="SiteAssets\Scripts\views\productLiteNavigation.html" Url="Scripts/views/productLiteNavigation.html" />
+    <File Path="SiteAssets\Scripts\controllers\productLiteNavController.js" Url="Scripts/controllers/productLiteNavController.js" />
+    <File Path="SiteAssets\Styles\responsive.css" Url="Styles/responsive.css" />
+    <File Path="SiteAssets\Styles\product_herobar_wp.css" Url="Styles/product_herobar_wp.css" />
+    <File Path="SiteAssets\Scripts\views\videoPlayerDialog.html" Url="Scripts/views/videoPlayerDialog.html" />
+    <File Path="SiteAssets\Scripts\services\howToService.js" Url="Scripts/services/howToService.js" />
+    <File Path="SiteAssets\Scripts\services\heroBarService.js" Url="Scripts/services/heroBarService.js" />
+    <File Path="SiteAssets\Scripts\services\productService.js" Url="Scripts/services/productService.js" />
+    <File Path="SiteAssets\Scripts\services\ourTeamService.js" Url="Scripts/services/ourTeamService.js" />
+    <File Path="SiteAssets\Scripts\services\homeService.js" Url="Scripts/services/homeService.js" />
+    <File Path="SiteAssets\Scripts\services\itsService.js" Url="Scripts/services/itsService.js" />
+    <File Path="SiteAssets\Scripts\controllers\itsHeroBarController.js" Url="Scripts/controllers/itsHeroBarController.js" />
+    <File Path="SiteAssets\Scripts\views\itsHeroBar.html" Url="Scripts/views/itsHeroBar.html" />
+    <File Path="SiteAssets\Scripts\controllers\productYammerController.js" Url="Scripts/controllers/productYammerController.js" />
+    <File Path="SiteAssets\Scripts\views\productYammer.html" Url="Scripts/views/productYammer.html" />
+    <File Path="SiteAssets\Scripts\appSystem.js" Url="Scripts/appSystem.js" />
+    <File Path="SiteAssets\Scripts\services\baseService.js" Url="Scripts/services/baseService.js" />
+    <File Path="SiteAssets\Scripts\controllers\productVideoController.js" Url="Scripts/controllers/productVideoController.js" />
+    <File Path="SiteAssets\Scripts\views\productVideo.html" Url="Scripts/views/productVideo.html" />
+    <File Path="SiteAssets\Scripts\controllers\homeMyResourceController.js" Url="Scripts/controllers/homeMyResourceController.js" />
+    <File Path="SiteAssets\Scripts\views\homeMyResource.html" Url="Scripts/views/homeMyResource.html" />
+    <File Path="SiteAssets\Scripts\controllers\itsToolsController.js" Url="Scripts/controllers/itsToolsController.js" />
+    <File Path="SiteAssets\Scripts\views\itsTools.html" Url="Scripts/views/itsTools.html" />
+    <File Path="SiteAssets\lib\angular-lightbox\angular-bootstrap-lightbox.min.js" Url="lib/angular-lightbox/angular-bootstrap-lightbox.min.js" />
+    <File Path="SiteAssets\lib\angular-lightbox\angular-bootstrap-lightbox.css" Url="lib/angular-lightbox/angular-bootstrap-lightbox.css" />
+    <File Path="SiteAssets\lib\angular-lightbox\angular-bootstrap-lightbox.js" Url="lib/angular-lightbox/angular-bootstrap-lightbox.js" />
+    <File Path="SiteAssets\lib\angular-lightbox\angular-bootstrap-lightbox.min.css" Url="lib/angular-lightbox/angular-bootstrap-lightbox.min.css" />
+    <File Path="SiteAssets\lib\videogular\vg-buffering.js" Url="lib/videogular/vg-buffering.js" />
+    <File Path="SiteAssets\lib\videogular\vg-controls.js" Url="lib/videogular/vg-controls.js" />
+    <File Path="SiteAssets\lib\videogular\vg-overlay-play.js" Url="lib/videogular/vg-overlay-play.js" />
+    <File Path="SiteAssets\lib\videogular\vg-poster.js" Url="lib/videogular/vg-poster.js" />
+    <File Path="SiteAssets\lib\videogular\fonts\videogular.dev.svg" Url="lib/videogular/fonts/videogular.dev.svg" />
+    <File Path="SiteAssets\lib\videogular\fonts\videogular.eot" Url="lib/videogular/fonts/videogular.eot" />
+    <File Path="SiteAssets\lib\videogular\fonts\videogular.svg" Url="lib/videogular/fonts/videogular.svg" />
+    <File Path="SiteAssets\lib\videogular\fonts\videogular.ttf" Url="lib/videogular/fonts/videogular.ttf" />
+    <File Path="SiteAssets\lib\videogular\fonts\videogular.woff" Url="lib/videogular/fonts/videogular.woff" />
+    <File Path="SiteAssets\lib\videogular\css\videogular.css" Url="lib/videogular/css/videogular.css" />
+    <File Path="SiteAssets\Videos\defaultVideo.mp4" Url="Videos/defaultVideo.mp4" />
+    <File Path="SiteAssets\Styles\jquery.mmenu.all.css" Url="Styles/jquery.mmenu.all.css" />
+    <File Path="SiteAssets\lib\videogular\videogular.css" Url="lib/videogular/videogular.css" />
+    <File Path="SiteAssets\Scripts\utilities.js" Url="Scripts/utilities.js" />
+    <File Path="SiteAssets\lib\videogular\video.css" Url="lib/videogular/video.css" />
+    <File Path="SiteAssets\Scripts\directives\templates\dropdownSelect.html" Url="Scripts/directives/templates/dropdownSelect.html" />
+    <File Path="SiteAssets\lib\videogular\vg-buffering.min.js" Url="lib/videogular/vg-buffering.min.js" />
+    <File Path="SiteAssets\lib\videogular\vg-buffering.min.js.map" Url="lib/videogular/vg-buffering.min.js.map" />
+    <File Path="SiteAssets\lib\videogular\vg-controls.min.js" Url="lib/videogular/vg-controls.min.js" />
+    <File Path="SiteAssets\lib\videogular\vg-controls.min.js.map" Url="lib/videogular/vg-controls.min.js.map" />
+    <File Path="SiteAssets\lib\videogular\vg-overlay-play.min.js" Url="lib/videogular/vg-overlay-play.min.js" />
+    <File Path="SiteAssets\lib\videogular\vg-overlay-play.min.js.map" Url="lib/videogular/vg-overlay-play.min.js.map" />
+    <File Path="SiteAssets\lib\videogular\vg-poster.min.js" Url="lib/videogular/vg-poster.min.js" />
+    <File Path="SiteAssets\lib\videogular\vg-poster.min.js.map" Url="lib/videogular/vg-poster.min.js.map" />
+    <File Path="SiteAssets\lib\videogular\videogular.min.js" Url="lib/videogular/videogular.min.js" />
+    <File Path="SiteAssets\lib\videogular\videogular.min.js.map" Url="lib/videogular/videogular.min.js.map" />
+    <File Path="SiteAssets\lib\videogular\video.min.css" Url="lib/videogular/video.min.css" />
+    <File Path="SiteAssets\lib\jquery.mCustomScrollbar\jquery.mCustomScrollbar.min.js" Url="lib/jquery.mCustomScrollbar/jquery.mCustomScrollbar.min.js" />
+    <File Path="SiteAssets\lib\jquery.mCustomScrollbar\jquery.mCustomScrollbar.min.js.map" Url="lib/jquery.mCustomScrollbar/jquery.mCustomScrollbar.min.js.map" />
+    <File Path="SiteAssets\Scripts\controllers\baseController.js" Url="Scripts/controllers/baseController.js" />
+    <File Path="SiteAssets\lib\yammer\platform_embed.js" Url="lib/yammer/platform_embed.js" />
+    <File Path="SiteAssets\lib\videogular\css\videogular.min.css" Url="lib/videogular/css/videogular.min.css" />
+    <File Path="SiteAssets\lib\videogular\videogular.min.css" Url="lib/videogular/videogular.min.css" />
+    <File Path="SiteAssets\Videos\mov_bbb.mp4" Url="Videos/mov_bbb.mp4" />
+    <File Path="SiteAssets\lib\jquery.mmenu\jquery.mmenu.all.min.css" Url="lib/jquery.mmenu/jquery.mmenu.all.min.css" />
+    <File Path="SiteAssets\lib\modernizr\modernizr-custom.min.js" Url="lib/modernizr/modernizr-custom.min.js" />
+    <File Path="SiteAssets\lib\modernizr\modernizr-custom.min.js.map" Url="lib/modernizr/modernizr-custom.min.js.map" />
+    <File Path="SiteAssets\Scripts\services\metadataService.js" Url="Scripts/services/metadataService.js" />
+    <File Path="SiteAssets\Scripts\services\translationService.js" Url="Scripts/services/translationService.js" />
+    <File Path="SiteAssets\Sass\privacy-policy.scss" Url="Sass/privacy-policy.scss" />
+    <File Path="SiteAssets\Styles\privacy-policy.css" Url="Styles/privacy-policy.css" />
+    <File Path="SiteAssets\Styles\privacy-policy.min.css" Url="Styles/privacy-policy.min.css" />
+    <File Path="SiteAssets\Styles\styles.min.css" Url="Styles/styles.min.css" />
+    <File Path="SiteAssets\Scripts\deployment\app_include_testing.js" Url="Scripts/deployment/app_include_testing.js" />
+    <File Path="SiteAssets\Scripts\deployment\app_include_staging.js" Url="Scripts/deployment/app_include_staging.js" />
+    <File Path="SiteAssets\Scripts\deployment\app_include_ignite.js" Url="Scripts/deployment/app_include_ignite.js" />
+    <File Path="SiteAssets\Scripts\deployment\appSystem_testing.js" Url="Scripts/deployment/appSystem_testing.js" />
+    <File Path="SiteAssets\Scripts\deployment\appSystem_staging.js" Url="Scripts/deployment/appSystem_staging.js" />
+    <File Path="SiteAssets\Scripts\deployment\appSystem_ignite.js" Url="Scripts/deployment/appSystem_ignite.js" />
+    <File Path="SiteAssets\Scripts\deployment\guide.js" Url="Scripts/deployment/guide.js" />
+    <File Path="SiteAssets\Scripts\views\productContact.html" Url="Scripts/views/productContact.html" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap-theme.css" Url="lib/bootstrap-3.3.6/css/bootstrap-theme.css" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap-theme.css.map" Url="lib/bootstrap-3.3.6/css/bootstrap-theme.css.map" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap-theme.min.css" Url="lib/bootstrap-3.3.6/css/bootstrap-theme.min.css" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap-theme.min.css.map" Url="lib/bootstrap-3.3.6/css/bootstrap-theme.min.css.map" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap.css" Url="lib/bootstrap-3.3.6/css/bootstrap.css" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap.css.map" Url="lib/bootstrap-3.3.6/css/bootstrap.css.map" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap.min.css" Url="lib/bootstrap-3.3.6/css/bootstrap.min.css" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\css\bootstrap.min.css.map" Url="lib/bootstrap-3.3.6/css/bootstrap.min.css.map" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\fonts\glyphicons-halflings-regular.eot" Url="lib/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.eot" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\fonts\glyphicons-halflings-regular.svg" Url="lib/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.svg" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\fonts\glyphicons-halflings-regular.ttf" Url="lib/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.ttf" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\fonts\glyphicons-halflings-regular.woff" Url="lib/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\fonts\glyphicons-halflings-regular.woff2" Url="lib/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff2" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\js\bootstrap.js" Url="lib/bootstrap-3.3.6/js/bootstrap.js" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\js\bootstrap.min.js" Url="lib/bootstrap-3.3.6/js/bootstrap.min.js" />
+    <File Path="SiteAssets\lib\bootstrap-3.3.6\js\npm.js" Url="lib/bootstrap-3.3.6/js/npm.js" />
+    <File Path="SiteAssets\lib\react\react-dom-server.js" Url="lib/react/react-dom-server.js" />
+    <File Path="SiteAssets\lib\react\react-dom-server.min.js" Url="lib/react/react-dom-server.min.js" />
+    <File Path="SiteAssets\lib\react\react-dom.js" Url="lib/react/react-dom.js" />
+    <File Path="SiteAssets\lib\react\react-dom.min.js" Url="lib/react/react-dom.min.js" />
+    <File Path="SiteAssets\lib\react\react-with-addons.js" Url="lib/react/react-with-addons.js" />
+    <File Path="SiteAssets\lib\react\react-with-addons.min.js" Url="lib/react/react-with-addons.min.js" />
+    <File Path="SiteAssets\lib\react\react.js" Url="lib/react/react.js" />
+    <File Path="SiteAssets\lib\react\react.min.js" Url="lib/react/react.min.js" />
+    <File Path="SiteAssets\lib\angular-react\ngReact.js" Url="lib/angular-react/ngReact.js" />
+    <File Path="SiteAssets\lib\angular-react\ngReact.min.js" Url="lib/angular-react/ngReact.min.js" />
+    <File Path="SiteAssets\lib\angular-react\react-component-spec.js" Url="lib/angular-react/react-component-spec.js" />
+    <File Path="SiteAssets\lib\angular-react\react-directive-spec.js" Url="lib/angular-react/react-directive-spec.js" />
+    <File Path="SiteAssets\package.json" Url="package.json" />
+    <File Path="SiteAssets\dist\scripts\bottomJS.js" Url="dist/scripts/bottomJS.js" />
+    <File Path="SiteAssets\dist\scripts\libraries.js" Url="dist/scripts/libraries.js" />
+    <File Path="SiteAssets\dist\scripts\scripts.js" Url="dist/scripts/scripts.js" />
+    <File Path="SiteAssets\Styles\my_resource_wp.css" Url="Styles/my_resource_wp.css" />
+    <File Path="SiteAssets\Styles\my_resource_wp.min.css" Url="Styles/my_resource_wp.min.css" />
+    <File Path="SiteAssets\Styles\responsive.min.css" Url="Styles/responsive.min.css" />
+    <File Path="SiteAssets\Sass\feedback.scss" Url="Sass/feedback.scss" />
+    <File Path="SiteAssets\Styles\feedback.css" Url="Styles/feedback.css" />
+    <File Path="SiteAssets\Styles\feedback.min.css" Url="Styles/feedback.min.css" />
+  </Module>
+</Elements>

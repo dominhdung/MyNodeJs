@@ -1,0 +1,47 @@
+.main-container {
+  padding: 50px 20px; }
+  .main-container h2 {
+    color: #4a90e2; }
+  .main-container .product-list {
+    list-style-type: none;
+    padding-left: 0; }
+  .main-container .control-label {
+    display: none; }
+  .main-container .product {
+    width: 250px;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid #eee;
+    margin-top: 5px;
+    text-align: center; }
+    .main-container .product .info {
+      margin-top: 8px;
+      text-align: left; }
+    .main-container .product .name {
+      font-size: 18px;
+      color: #4a90e2; }
+    .main-container .product .price {
+      color: #d0021b;
+      margin-top: 8px; }
+    .main-container .product img {
+      width: 50%; }
+    .main-container .product .btn-group {
+      color: #fff;
+      margin-top: 8px; }
+      .main-container .product .btn-group > div {
+        min-width: 100px; }
+    .main-container .product .btn-buy {
+      background-color: #f89406;
+      border-color: #f89406; }
+    .main-container .product .btn-review {
+      background-color: #4a90e2;
+      border-color: #4a90e2; }
+      .main-container .product .btn-review a {
+        color: #fff; }
+        .main-container .product .btn-review a:hover {
+          text-decoration: none;
+          color: #000; }
+  .main-container .input-rating {
+    width: 70px; }
+
+/*# sourceMappingURL=Styles.css.map */
